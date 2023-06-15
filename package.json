@@ -1,0 +1,14 @@
+{
+    "name": "RockLab",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^24.3.1"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "request": "^1.6.11"
+    }
+}
